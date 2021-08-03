@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghauthamaj
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security and new developments in information security
 - 🌱 I’m currently studying CEH
 - 📫 you can reach me at gautham.a.john@gmail.com
 
